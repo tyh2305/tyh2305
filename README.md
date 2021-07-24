@@ -46,3 +46,6 @@ Code Editor : VS Code
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/330px-React-icon.svg.png" height=20>React Native
 - Databases
 - More ...
+
+## Learning Plan
+[TODOs](https://gist.github.com/tyh2305/a63f123277086f640ea989973751d813)
